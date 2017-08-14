@@ -11,6 +11,13 @@ for educational purposes.
 4. axios 0.16.2 as http client (https://github.com/mzabriskie/axios)
 5. vee-validate 2.0 to validate input field (https://github.com/baianat/vee-validate)
 6. bootstrap 4.0.0-beta (https://getbootstrap.com/)
+7. mockapi to mockup an API (https://www.mockapi.io)
+
+**Api URL: http://5988b6b32f50af00115753ef.mockapi.io/**
+
+**Resources:**
+- products
+- carts
 
 ## Build Setup
 
