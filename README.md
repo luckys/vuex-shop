@@ -1,7 +1,8 @@
 
-# vuex-shop
+# Vuex-Shop VueJS 2.0 workshop
 
-> A Vue.js project
+> A little Vue.js e-commerce application project as fork from https://github.com/jayway/vue-js-workshop
+for educational purposes.
 
 ## Build Setup
 
