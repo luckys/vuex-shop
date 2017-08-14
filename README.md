@@ -4,6 +4,14 @@
 > A little Vue.js e-commerce application project as fork from https://github.com/jayway/vue-js-workshop
 for educational purposes.
 
+## Tools used:
+1. vue 2.3.3 (https://vuejs.org/)
+2. vuex 2.3.1 (https://github.com/vuejs/vuex)
+3. vue-router 2.6.0 (https://github.com/vuejs/vue-router)
+4. axios 0.16.2 as http client (https://github.com/mzabriskie/axios)
+5. vee-validate 2.0 to validate input field (https://github.com/baianat/vee-validate)
+6. bootstrap 4.0.0-beta (https://getbootstrap.com/)
+
 ## Build Setup
 
 ``` bash
